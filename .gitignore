@@ -1,0 +1,8 @@
+# Node.js
+node_modules/
+
+# Qiita CLIの同期用ファイル
+public/.remote/
+
+# macOS
+.DS_Store
