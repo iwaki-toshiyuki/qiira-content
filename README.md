@@ -69,7 +69,7 @@ git add .
 ### 4. コミット
 
 ```bash
-git commit -m "Update Qiita articles"
+git commit -m "「日付」「タイトル」"
 ```
 
 ### 5. GitHubへ反映
